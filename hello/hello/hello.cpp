@@ -7,7 +7,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout<<"Hello,China!"<<endl;
+	cout<<"Hello,Changchun!"<<endl;
 	return 0;
 }
 
